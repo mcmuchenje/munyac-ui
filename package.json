@@ -1,6 +1,6 @@
 {
-  "name": "munyac-ui",
-  "version": "1.0.0",
+  "name": "@munyac/munyac-ui",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
